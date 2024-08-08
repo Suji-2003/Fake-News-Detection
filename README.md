@@ -1,6 +1,7 @@
 Fake News Detection
 
-Overview
+Overview :
+
 This project aims to build a machine learning model to detect fake news articles.By leveraging natural language processing (NLP) and various machine learning techniques,we can classify news articles as real or fake with high accuracy.
 
 Features
